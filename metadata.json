@@ -1,0 +1,6 @@
+{
+  "name": "Audio Otomatis PTA Kep. Bangka Belitung",
+  "description": "Sistem Pemutaran Audio Otomatis Terjadwal untuk Peringatan Anti Gratifikasi dan Layanan Publik PTA Kepulauan Bangka Belitung.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
